@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCalendar", "MyCalendar2\MyCalendar.csproj", "{A7F21AFA-C294-49B0-BA89-A0F9C011B94F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{FD4150CF-4107-4C32-B971-FDC5F88C0039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7F21AFA-C294-49B0-BA89-A0F9C011B94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F21AFA-C294-49B0-BA89-A0F9C011B94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F21AFA-C294-49B0-BA89-A0F9C011B94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F21AFA-C294-49B0-BA89-A0F9C011B94F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4150CF-4107-4C32-B971-FDC5F88C0039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4150CF-4107-4C32-B971-FDC5F88C0039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4150CF-4107-4C32-B971-FDC5F88C0039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4150CF-4107-4C32-B971-FDC5F88C0039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64CB7AC5-F9F9-46C1-B196-3DEC6EDAA11C}
+	EndGlobalSection
+EndGlobal
